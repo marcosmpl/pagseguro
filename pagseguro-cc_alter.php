@@ -1,5 +1,6 @@
 <?php
 
+
     $url = "https://ws.sandbox.pagseguro.uol.com.br/v2/sessions";
     
     $email = "pavideo@inacsistemas.com";
