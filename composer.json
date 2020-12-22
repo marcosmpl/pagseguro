@@ -1,7 +1,17 @@
 {
-	"name": "pagseguro-payments/pagseguro-payments",
-	"description": "Pacote com recursos de pagamento do Pagseguro",
+	"name": "marcosmpl/pagseguro",
+	"authors": [
+		{
+			"name": "Marcos Pedro",
+			"email": "marcoswebev@gmail.com"
+		}
+	],
 	"require": {
 		"php": ">= 7.2"
+	},
+	"autoload": {
+		"psr-4": {
+			"MarcosPedro\\": "src"
+		}
 	}
 }
