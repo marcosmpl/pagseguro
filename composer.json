@@ -1,7 +1,0 @@
-{
-	"name": "pagseguro-payments/pagseguro-payments",
-	"description": "Pacote com recursos de pagamento do Pagseguro",
-	"require": {
-		"php": ">= 7.2"
-	}
-}
